@@ -11,3 +11,5 @@ Competências:   Análise exploratória de dados,  Feature engineering,  Aprendi
   
 DataSet utilizado: 
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+
+Professor: Howard
