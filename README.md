@@ -2,10 +2,10 @@
 
 # Integrantes do grupo: 
   
-  Cassio Jordan
-  Gustavo Streig
-  Pablo Moura
-  Olívia Noronha
+  Cassio Jordan,
+  Gustavo Streig,
+  Pablo Moura,
+  Olívia Noronha,
   
-data set utilizado: 
+DataSet utilizado: 
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
