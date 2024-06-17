@@ -5,7 +5,7 @@
   Cassio Jordan,
   Gustavo Streig,
   Pablo Moura,
-  Olívia Noronha,
+  Olívia Noronha.
   
 DataSet utilizado: 
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
